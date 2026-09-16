@@ -11,6 +11,8 @@ The session is a live, four hour working morning on Zoom. Advisors use a free Ch
 | [sample-data.md](sample-data.md) | Invented client scenarios, Chaser situations, three stripped sample emails, and a sample confirmation, for practice. | [pdf/sample-data.pdf](pdf/sample-data.pdf) |
 | [the-one-rule.md](the-one-rule.md) | One-page card: what is safe to paste, what never is, the two privacy settings, and the email stripping checklist. | [pdf/the-one-rule.pdf](pdf/the-one-rule.pdf) |
 | [cost-table.md](cost-table.md) | Free plans, paid plans, virtual assistants, and a built automation, side by side. | [pdf/cost-table.pdf](pdf/cost-table.pdf) |
+| [image-prompts.md](image-prompts.md) | A picture for the post: the five-part image recipe, the one rule for AI images, and five prompts to try. | [pdf/image-prompts.pdf](pdf/image-prompts.pdf) |
+| [agents-vs-chatgpt.md](agents-vs-chatgpt.md) | What an agent does that a free ChatGPT or Claude account does not, stated plainly. | [pdf/agents-vs-chatgpt.pdf](pdf/agents-vs-chatgpt.pdf) |
 
 **The one rule: strip the client's identity before you paste.** An AI assistant needs the trip, never the name, passport number, date of birth, home address, phone, loyalty number, card, or booking numbers.
 
