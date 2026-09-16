@@ -134,7 +134,7 @@ Edit the result until it sounds like you. Then save it. This is the one you reus
 
 ### Saving R3 so it is still there Monday
 
-**ChatGPT (free):** left sidebar, Projects, New project, name it "Destination answers." Inside the project, open the chat where you built the answer, or paste the final version into a new chat there. Open the project's instructions (three dot menu, Edit instructions or the Instructions field) and paste:
+**ChatGPT (free):** left sidebar, Projects, New project, name it "Destination answers." Inside the project, open the chat where you built the answer, or paste the final version into a new chat there. Open the project's three dot menu, choose Project settings, paste into the Instructions box, and click Save:
 
 ```
 When I give you a destination and a month, write the client answer in the same format, length, and tone as the saved Portugal in October answer in this project. Under 200 words, short paragraphs, honest verdict first, end by asking for their dates. List facts to double check separately at the end.
@@ -237,9 +237,9 @@ Read the result. Correct anything that is wrong ("I do use exclamation points, b
 
 ### Saving your voice where it sticks
 
-**ChatGPT (free), recommended: a Project.** Projects, New project, name it "My writing." Open the project's instructions and paste the W1 result. Every chat inside that Project uses it. Client work stays separate from anything personal, and the Project keeps its own memory.
+**ChatGPT (free), recommended: a Project.** Projects, New project, name it "My writing." Open the project's three dot menu, Project settings, paste the W1 result into the Instructions box, Save. Every chat inside that Project uses it. Client work stays separate from anything personal, and the Project keeps its own memory.
 
-**ChatGPT (free), account-wide alternative:** Settings, Personalization, Custom instructions. Paste the voice rules under "How would you like ChatGPT to respond?" This applies to every chat, inside or outside Projects. Check the character limit on the free plan (paid plans were raised to 5,000 characters in July 2026; if the free box is shorter, the 200 word version fits).
+**ChatGPT (free), account-wide alternative:** Settings, Personalization, the single Custom instructions box ("Additional behavior, style, and tone preferences"). Paste the voice rules there. This applies to every chat, inside or outside Projects. Check the character limit on the free plan (paid plans were raised to 5,000 characters in July 2026; if the free box is shorter, the 200 word version fits).
 
 **Claude (free): a Project.** claude.ai/projects, New Project, "My writing," Set project instructions, paste, Save instructions. Every chat inside the Project uses it. Claude also has account-level preferences under Settings, Profile, but the Project is the cleaner home for client work.
 
